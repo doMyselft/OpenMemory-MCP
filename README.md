@@ -103,7 +103,7 @@ docker compose down -v
 ### 6.MCP客户端设置
 运行以下指令：
 ```bash
-npx @openmemory/install local http://localhost:8765/mcp/openmemory/sse/ethan --client openmemory
+npx @openmemory/install local http://localhost:8765/mcp/cursor/sse/ethan --client cursor
 ```
 
 ## Project Structure
